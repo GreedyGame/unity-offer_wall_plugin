@@ -1,4 +1,3 @@
-[![Release: Release](https://img.shields.io/github/v/release/greedy-naved/Unity-offer_wall?style=flat-square)](https://github.com/greedy-naved/Unity-offer_wall/releases/latest)
 [![Linkedin: Pubscale](https://img.shields.io/badge/-Pubscale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/company/pubscale)](https://in.linkedin.com/company/pubscale)
 
 ![gg](https://github.com/GreedyGame/sdkone-unity_native_ads_plugin/assets/98257601/bf6b9642-a71d-4b85-8e91-b130fbc02eb2)
