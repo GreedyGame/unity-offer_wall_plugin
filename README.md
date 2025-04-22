@@ -6,6 +6,6 @@
 The Offer Wall plugin for Unity is a powerful tool that allows developers to seamlessly integrate Offer Wall into their Android games. With this plugin, developers can monetize their games by displaying an offer wall.
 
 ## Installation
-To install the Offer Wall Plugin in your Unity project, follow this [integration document](https://pubscale.gitbook.io/offerwall-sdk/v/1.0.7/unity/setting-up-the-sdk).
+To install the Offer Wall Plugin in your Unity project, follow this [integration document](https://pubscale.gitbook.io/offerwall-sdk/basic-integration/unity).
 
 <img align='centre' src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="80">
